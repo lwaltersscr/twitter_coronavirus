@@ -17,17 +17,20 @@ This project analyzes geotagged tweets from 2020 to monitor the spread of the co
 ## Generated Outputs
 
 This project produces four key PNG files that visualize the data:
+## Generated Outputs
 
-- **combined.lang.coronavirus.png:**  
-  Bar graph showing language counts for tweets containing `#coronavirus`.
-- **combined.lang.코로나바이러스.png:**  
-  Bar graph showing language counts for tweets containing `#코로나바이러스`.
-- **combined.country.coronavirus.png:**  
-  Bar graph showing country counts for tweets containing `#coronavirus`.
-- **combined.country.코로나바이러스.png:**  
-  Bar graph showing country counts for tweets containing `#코로나바이러스`.
+### Language Analysis
+- **#coronavirus:**  
+  ![Combined Lang Coronavirus](combined_#coronavirus.png)
+- **#코로나바이러스:**  
+  ![Combined Lang 코로나바이러스](combined_#코로나바이러스.png)
 
-These plots provide clear visual insights into how conversations around the coronavirus were distributed across different languages and regions.
+### Country Analysis
+- **#coronavirus:**  
+  ![Combined Country Coronavirus](combined.country.coronavirus.png)
+- **#코로나바이러스:**  
+  ![Combined Country 코로나바이러스](combined.country.코로나바이러스.png)
+
 
 ## How to Run the Project
 
