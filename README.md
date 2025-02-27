@@ -14,22 +14,19 @@ This project analyzes geotagged tweets from 2020 to monitor the spread of the co
 - **Alternative Reducer (alternative_reduce.py):**  
   Creates a line plot that shows the daily tweet counts for selected hashtags throughout the year.
 
-## Generated Outputs
-
-This project produces four key PNG files that visualize the data:
-## Generated Outputs
+## Generated Output Images
 
 ### Language Analysis
 - **#coronavirus:**  
-  ![Combined Lang Coronavirus](combined_#coronavirus.png)
+  ![Combined Lang Coronavirus](combined.lang_coronavirus.png)
 - **#코로나바이러스:**  
-  ![Combined Lang 코로나바이러스](combined_#코로나바이러스.png)
+  ![Combined Lang 코로나바이러스](combined.lang_코로나바이러스.png)
 
 ### Country Analysis
 - **#coronavirus:**  
-  ![Combined Country Coronavirus](combined.country.coronavirus.png)
+  ![Combined Country Coronavirus](combined.country_coronavirus.png)
 - **#코로나바이러스:**  
-  ![Combined Country 코로나바이러스](combined.country.코로나바이러스.png)
+  ![Combined Country 코로나바이러스](combined.country_코로나바이러스.png)
 
 
 ## How to Run the Project
